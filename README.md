@@ -52,4 +52,12 @@ Para arquitecturas de indexacion masiva y alineacion con Protocolo Sitemaps.org 
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/es/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/es/
+* **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
 © 2026 TAVARDT. Todos los derechos reservados.
