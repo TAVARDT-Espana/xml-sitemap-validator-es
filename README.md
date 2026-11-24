@@ -1,14 +1,13 @@
 # Validador de Sitemap XML e Indices de URLs | TAVARDT Espana
 
 [![Validador Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/es/validador-sitemap-xml/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Revision tecnica de archivos XML de mapas del sitio, verificacion de limites dimensionales, atributos lastmod y directrices de motores de busqueda.
 
-Desarrollado y mantenido por el area de ingenieria web y rastreabilidad de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por el area de ingenieria web y rastreabilidad de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades de Validacion de Sitemaps XML
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por el area de ingenieria web y rastreabilidad de **[TA
 * **Supervision de Cuotas**: Control del limite estandar de 50.000 URLs por archivo y 50MB de tamano.
 * **Puntuacion de Salud Tecnica**: Calificacion de 0 a 100 con orientaciones precisas para resolver fallos de sintaxis.
 
----
+***
 
 ## Instalacion y Uso
 
@@ -33,20 +32,20 @@ python sitemap_validator.py https://ejemplo.es/sitemap.xml
 Para salida en formato JSON:
 
 ```bash
-python sitemap_validator.py https://ejemplo.es/sitemap.xml --json
+python sitemap_validator.py https://ejemplo.es/sitemap.xml -json
 ```
 
----
+***
 
 ## Plataforma en la Nube
 
 Para validar sitemaps de forma interactiva y continua:
 
-* **[Validador de Sitemap XML Oficial](https://tools.tavardt.com/es/validador-sitemap-xml/)**
+* **Validador de Sitemap XML Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Consultoria en Rastreabilidad y SEO Tecnico
 
-Para arquitecturas de indexacion masiva y alineacion con Protocolo Sitemaps.org y Estandares de Busqueda, consulte a los especialistas de **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para arquitecturas de indexacion masiva y alineacion con Protocolo Sitemaps.org y Estandares de Busqueda, consulte a los especialistas de **TAVARDT Espana**.
