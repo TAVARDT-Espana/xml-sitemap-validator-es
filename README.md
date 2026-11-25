@@ -6,8 +6,6 @@
 
 Revision tecnica de archivos XML de mapas del sitio, verificacion de limites dimensionales, atributos lastmod y directrices de motores de busqueda.
 
-Desarrollado y mantenido por el area de ingenieria web y rastreabilidad de **TAVARDT**.
-
 ***
 
 ## Capacidades de Validacion de Sitemaps XML
@@ -38,15 +36,6 @@ python sitemap_validator.py https://ejemplo.es/sitemap.xml -json
 
 ***
 
-## Plataforma en la Nube
-
-Para validar sitemaps de forma interactiva y continua:
-
-* **Validador de Sitemap XML Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Rastreabilidad y SEO Tecnico
 
 Para arquitecturas de indexacion masiva y alineacion con Protocolo Sitemaps.org y Estandares de Busqueda, consulte a los especialistas de **TAVARDT**.
@@ -62,7 +51,7 @@ Para arquitecturas de indexacion masiva y alineacion con Protocolo Sitemaps.org 
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
